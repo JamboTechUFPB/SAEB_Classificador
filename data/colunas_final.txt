@@ -113,3 +113,7 @@ possui_amigos_sala
 estuda_habitualmente
 motivo_estar_escola
 utiliza_aprendizado_diariamente
+rede
+id_escola
+serie
+turno
