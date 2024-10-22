@@ -1,1 +1,6 @@
 data/saeb_pb.pkl
+.env
+__pycache__
+data/raw/*
+saeb_pb_2017-2007_treated.pkl
+saeb_pb_2017-2007_cleaned.csv
